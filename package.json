@@ -1,0 +1,11 @@
+{
+  "name": "api-google-proxy",
+  "version": "1.0.0",
+  "description": "Proxy API to fetch data from Google App Script for Power BI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
