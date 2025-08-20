@@ -2,7 +2,7 @@
 
 // URL da sua API original do Google App Script
 const GOOGLE_API_URL =
-  'https://script.google.com/macros/s/AKfycbwT4bZ3qdQEOfbs8K6ylnGPrnKFlAyJ3jQhMqOTmbsHdSR8fKNymn5MX61kNrJXaNcu/exec'
+  'https://script.googleusercontent.com/a/macros/pbh.gov.br/echo?user_content_key=AehSKLhXWNSj0F6hHvY4axSlEqN0Pm8dhGoNjBa8NxCouLkeLMZ1dwD3Talf-kikaplpqmFbeh_-Qn4L1w1nlE7_mrxeaIeoGaWrSbneff_oh6VwzVboNKxwDU5cvewfx0I5V2zHjI2O6QGPn_xQj2supCYw8jnXm9gx0bbftmHHSQRsLcdJ5VDVq4NBZ_Z1cM6Qi7I5TtfVvV9xLVBXjR5M8BiYpWIbm3_L7pzldQ2jxJiLTuM2bgk_Xi4mnOCqe0XQ2-1cfrsJra5lCCqmAIMRWhhLRmT8fThVIlA3UbMUTQxBELFTTOo&lib=MJsm1jFL3jq5AgTQNuu_c-NqbKeHUbra5'
 
 /**
  * Esta é a função serverless que a Vercel irá executar.

@@ -2,7 +2,7 @@
 
 // URL da sua API original do Google App Script
 const GOOGLE_API_URL =
-  'https://script.google.com/macros/s/AKfycbwT4bZ3qdQEOfbs8K6ylnGPrnKFlAyJ3jQhMqOTmbsHdSR8fKNymn5MX61kNrJXaNcu/exec'
+  'https://script.google.com/macros/s/AKfycbzkj0PmsNuVhNTBA_2A0p1cvhDPBDNxnLsRbt5wu8b1aUQuvLgUhPDpJmn8ClUm1Ai8/exec'
 
 /**
  * Esta é a função serverless que a Vercel irá executar.
