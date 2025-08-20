@@ -4,7 +4,7 @@
   "description": "Proxy API to fetch data from Google App Script for Power BI",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./api/dados.js"
   },
   "author": "",
   "license": "ISC"
